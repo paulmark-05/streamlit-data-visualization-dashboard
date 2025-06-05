@@ -1,0 +1,22 @@
+# Required Python packages for WRICEF Data Visualization
+
+# Core data processing
+pandas>=1.5.0
+numpy>=1.21.0
+openpyxl>=3.0.9
+
+# Visualization libraries
+matplotlib>=3.5.0
+seaborn>=0.11.0
+plotly>=5.0.0
+
+# Web application framework
+streamlit>=1.25.0
+
+# Additional utilities
+datetime
+warnings
+
+# Optional: For enhanced functionality
+scipy>=1.9.0
+scikit-learn>=1.1.0
