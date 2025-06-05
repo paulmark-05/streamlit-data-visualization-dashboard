@@ -13,9 +13,6 @@ plotly>=5.0.0
 # Web application framework
 streamlit>=1.25.0
 
-# Additional utilities
-datetime
-warnings
 
 # Optional: For enhanced functionality
 scipy>=1.9.0
