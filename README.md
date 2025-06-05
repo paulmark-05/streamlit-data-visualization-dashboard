@@ -1,2 +1,11 @@
-# streamlit-data-visualization-dashboard
-modern, interactive data visualization dashboard built with Python and Streamlit. Features advanced analytics, multiple chart types (matplotlib, seaborn, plotly), and a user-friendly web interface for exploring and presenting complex datasets. Ideal for showcasing data science and web app development skills.
+# Streamlit Data Visualization Dashboard
+
+An interactive web dashboard for advanced data visualization and analytics, built with Python and Streamlit.
+
+## 🚀 Features
+
+- Multiple chart types: bar charts, histograms, scatter plots, heatmaps, and more (matplotlib, seaborn, plotly)
+- Interactive filtering and data exploration
+- User-friendly web interface
+- Easily deployable and shareable online
+- Supports custom datasets (CSV, Excel)
